@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DS Algo, UI/UX, ML with Tensorflow ...
 - 💞️ Do you have a name, or can I just call you ‘mine?’👀  
 - 📫 How to reach me rajphx299@gmail.com
+- https://www.instagram.com/ig_rajpatel/
 - 🤗Give a follow if you like my repos.
 
 <!---
