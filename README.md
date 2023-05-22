@@ -3,6 +3,7 @@
 [![](https://raw.githubusercontent.com/rajpatel8/rajpatel8/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rajpatel8/rajpatel8/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/rajpatel8/rajpatel8/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=rajpatel8)
 
 - 👋 Hi, I’m PATEL RAJKUMAR...
 - 💻 Need More Compute
