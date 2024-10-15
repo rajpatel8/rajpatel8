@@ -19,5 +19,14 @@
 [![](https://raw.githubusercontent.com/rajpatel8/rajpatel8/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rajpatel8/rajpatel8/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java       3 hrs 4 mins    ███████████████████▓░░░░░   79.27 %
+Text       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+CSV        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Markdown   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
