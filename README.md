@@ -36,3 +36,4 @@ Other            5 hrs 37 mins   >------------------------   02.89 %
 
 <!--END_SECTION:waka-->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajpatel8)](https://git.io/streak-stats)
