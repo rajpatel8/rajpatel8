@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 March 2023 - To: 07 October 2025
+From: 15 March 2023 - To: 08 October 2025
 
-Total Time: 205 hrs 19 mins
+Total Time: 205 hrs 20 mins
 
-C++              99 hrs 53 mins  >>>>>>>>>>>>-------------   47.14 %
-Python           32 hrs 26 mins  >>>>---------------------   15.31 %
+C++              99 hrs 53 mins  >>>>>>>>>>>>-------------   47.13 %
+Python           32 hrs 26 mins  >>>>---------------------   15.30 %
 Java             25 hrs 10 mins  >>>----------------------   11.88 %
 JavaScript       11 hrs 55 mins  >------------------------   05.63 %
-C                7 hrs 1 min     >------------------------   03.31 %
+C                7 hrs 2 mins    >------------------------   03.32 %
 Haskell          6 hrs 57 mins   >------------------------   03.29 %
 Other            6 hrs 34 mins   >------------------------   03.11 %
 ```
