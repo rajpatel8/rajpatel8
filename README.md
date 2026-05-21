@@ -21,14 +21,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 March 2023 - To: 18 May 2026
+From: 15 March 2023 - To: 19 May 2026
 
 Total Time: 242 hrs 54 mins
 
 C++                 108 hrs 12 mins       >>>>>>>>>>>--------------   43.31 %
+C                   32 hrs 26 mins        >>>----------------------   12.99 %
 Python              32 hrs 26 mins        >>>----------------------   12.98 %
-C                   32 hrs 25 mins        >>>----------------------   12.98 %
-Java                25 hrs 14 mins        >>>----------------------   10.11 %
+Java                25 hrs 14 mins        >>>----------------------   10.10 %
 JavaScript          11 hrs 55 mins        >------------------------   04.77 %
 Haskell             6 hrs 57 mins         >------------------------   02.79 %
 Other               6 hrs 54 mins         >------------------------   02.77 %
